@@ -39,5 +39,5 @@ This project is an Orders and Notifications Management system designed to handle
    - Automatic removal of messages from the queue after a configured time.
    - Provide live statistics on successfully sent notifications, including the most notified email address/phone number.
 
-## UML Diagram link (draw.io)
-  **https://app.diagrams.net/#G1LaBQ2AalKbPKBPUKHpnBeFqw0xpm_NEK**
+---
+🌟 _**Be sure to check out the UML diagram for a comprehensive visual representation!**_ 🌟
